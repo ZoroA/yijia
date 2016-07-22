@@ -1,0 +1,44 @@
+.cent{
+    width:1236px;
+    height:100%;
+    margin:0 auto;
+    padding-left:27px;}
+.cent-t{width:1236px;height:72px;}
+.cent-t h1{font-size:23px;line-height:40px;}
+.cent-t li{font-size: 14px;line-height:34px;background:url(../images/cart_07.png) no-repeat right top;padding:0 100px;float:left;margin-left:10px;}
+.cent-c{width:1236px;height:124px;border:1px solid #000000;margin-top:8px;}
+.cent-c p{height:22px;background:#f6f6f6;}
+.cent-c span{line-height: 68px;height:65px}
+.cent-c span img,input{margin-top:10px}
+.one{width:137px;float:left;text-align: center;}
+.two{width:450px;float:left;text-align: center;}
+.thr{width:150px;float:left;text-align: center;}
+.fou{width:150px;float:left;text-align: center;}
+.fiv{width:150px;float:left;text-align: center;}
+.six{width:150px;float:left;text-align: center;display:inline-block}
+.cent-d{width:1236px;height:55px;margin-top:8px;}
+.cent-e{width:1236px;height:75px;}
+.cent-r{width:400px;height:32px;line-height:32px;float:left;}
+.cent-v{width:450px;height:32px;line-height:32px;float:right;margin-top:10px}
+.cent-l{width:1236px;height:66px;clear: both;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

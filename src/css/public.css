@@ -1,0 +1,260 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+a{text-decoration: none;color:#333;}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+img{margin:0;padding:0;border:none;}
+
+/*top------------------------------------------------------------------------*/
+.top{
+        width:1263px;
+        height:30px;
+        border-bottom:1px solid #ededed;
+        background:#f6f6f6;
+        margin:0 auto;}
+.top-left{
+            width:609px;
+            line-height:30px;
+            float:left;}
+.top-left ul{
+        padding-left:27px;}
+.top-left ul li{
+        float:left;
+        padding:0 12px;
+        border-right:1px solid #dcdcdc;}
+.top-center{
+        width:652px;
+        float:left;}
+.top-center dt{
+        width:149px;
+        float:left;
+        font-size:12px;
+        line-height:30px;}
+.top-center dd{
+        width:80px;
+        float:left;
+        font-size:12px;
+        font-weight:bolder;
+        line-height:30px;}
+.top-center ul{
+        width:270px;
+        padding-left:135px;
+        float:left;}
+.top-center ul li{
+        float:left;padding:0 8px;
+        border-right:1px solid #dcdcdc;
+        font-size:12px;
+        line-height:30px;}
+
+/*logo------------------------------------------------------------------------------------------------*/
+.logo{
+        width:1263px;
+        height:90px;
+        background:#ffffff;
+        margin:0 auto;}
+.log{
+        width:382px;
+        height:90px;
+        float:left;}
+.log1{
+        width:111px;
+        height:90px;
+        float:left;}
+.search{
+        width:500px;
+        height:90px;
+        float:left;}
+.search input{
+        width:410px;
+        height:32px;
+        float:left;
+        margin-top:17px;
+        border:1px solid #c82324;}
+.search button{
+        width:80px;
+        height:38px;
+        background:#c82324;
+        margin-top:15px;
+        float:left;}
+.search p{
+        font-size:12px;
+        margin-left:8px;}
+.erwei{
+        height:88px;
+        width:90px;
+        float:left;}
+
+/*banner---------------------------------------------------------------------------------------------*/
+.banner1{
+        width:1263px;
+        height:37px;
+        border-top:1px solid #dfdfdf;
+        border-bottom:1px solid #c82324;
+        margin:0 auto;
+        background:#f7f7f7;}
+  
+#lie{
+        width:193px;
+        height:38px;
+        margin-left:27px;
+        font-size:14px;
+        line-height:38px;
+        padding-left:17px;
+        float:left;
+        background:#c82324;}
+#line{
+        width:82px;
+        height:38px;
+        float:right;
+        line-height:38px;
+        border-right:1px solid #dfdfdf;
+        margin-right:26px;}
+.banner1 li{
+        float:left;
+        margin-left:37px;
+        font-size:14px;
+        line-height:38px;}
+
+ /*bottom----------------------------------------------------------------------*/
+.bottom{    
+        width:1236px;
+        height:285px;
+        border-top:1px;
+        margin-top:5px;
+        margin:0 auto;
+       padding-left:27px;
+       clear:both;
+        }
+.bot1{
+        width:169px;
+        height:138px;
+        float:left;
+        }
+.bot1 h4{
+        font-size:14px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-top: 16px}
+.bot1 p{
+        font-size:12px;
+        line-height:16px;}
+.bot2{
+        width:169px;
+        height:138px;
+        float:left;}
+.bot2 h4{
+        font-size:14px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-top: 16px}
+.bot2 p{
+        font-size:12px;
+        line-height:16px;}
+.bot3{
+        width:169px;
+        height:138px;
+        float:left;}
+.bot3 h4{
+        font-size:14px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-top: 16px}
+.bot3 p{
+        font-size:12px;
+        line-height:16px;}
+.bot4{
+        width:169px;
+        height:138px;
+        float:left;}
+.bot4 h4{
+        font-size:14px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-top: 16px}
+.bot4 p{
+        font-size:12px;
+        line-height:16px;}
+.bot5{
+        width:169px;
+        height:138px;
+        float:left;}
+.bot5 h4{
+        font-size:14px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-top: 16px}
+.bot5 p{
+        font-size:12px;
+        line-height:16px;}
+.bot6{
+        width:169px;
+        height:138px;
+        float:left;}
+.bot6 h4{
+        font-size:14px;
+        font-weight: bold;
+        line-height: 30px;
+        margin-top: 16px}
+.bot6 p{
+        font-size:12px;
+        line-height:16px;}
+.bot7{
+        width:191px;
+        height:140px;
+        float:left;}
+.bot8 {margin-top:;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

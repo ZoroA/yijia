@@ -1,0 +1,292 @@
+
+.all{width:1263px;height:100%;margin:0 auto;}
+/*top------------------------------------------------------------------------------------------------*/
+.top{
+        position:relative;
+        width:1263px;
+        height:30px;
+        border-bottom:1px solid #ededed;
+        background:#f6f6f6;
+        margin:0 auto;}
+.top-left{
+            width:609px;
+            line-height:30px;
+            float:left;}
+.top-left ul{
+        padding-left:27px;}
+.top-left ul li{
+        float:left;
+        padding:0 12px;
+        border-right:1px solid #dcdcdc;}
+.top-center{
+        width:638px;
+        float:left;}
+.top-center dt{
+        width:145px;
+        float:left;
+        font-size:12px;
+        line-height:30px;}
+.top-center dd{
+        width:80px;
+        float:left;
+        font-size:12px;
+        font-weight:bolder;
+        line-height:30px;}
+.top-center ul{
+        width:270px;
+        padding-left:135px;
+        float:left;}
+.top-center ul li{
+        float:left;padding:0 8px;
+        border-right:1px solid #dcdcdc;
+        font-size:12px;
+        line-height:30px;}
+
+/*logo------------------------------------------------------------------------------------------------*/
+.logo{
+        width:1263px;
+        height:90px;
+        background:#ffffff;
+        margin:0 auto;}
+.log{
+        width:382px;
+        height:90px;
+        float:left;}
+.log1{
+        width:111px;
+        height:90px;
+        float:left;}
+.search{
+        width:500px;
+        height:90px;
+        float:left;}
+.search input{
+        width:410px;
+        height:32px;
+        float:left;
+        margin-top:17px;
+        border:1px solid #c82324;}
+.search button{
+        width:80px;
+        height:38px;
+        background:#c82324;
+        margin-top:15px;
+        float:left;}
+.search p{
+        font-size:12px;
+        margin-left:8px;}
+.erwei{
+        height:88px;
+        width:90px;
+        float:left;}
+
+/*banner---------------------------------------------------------------------------------------------*/
+.banner{
+        width:1263px;
+        height:450px;
+        margin:0 auto;}
+.banner1{
+        width:1263px;
+        height:37px;
+        border-top:1px solid #dfdfdf;
+        border-bottom:1px solid #c82324;}
+#lie{
+        width:193px;
+        height:38px;
+        margin-left:27px;
+        font-size:14px;
+        line-height:38px;
+        padding-left:17px;
+        float:left;}
+#line{
+        width:82px;
+        height:38px;
+        float:right;
+        line-height:38px;
+        border-right:1px solid #dfdfdf;
+        margin-right:26px;}
+.banner1 li{
+        float:left;
+        margin-left:37px;
+        font-size:14px;
+        line-height:38px;}
+.banner2{
+        width:1263px;
+        height:430px;}
+.fir{   
+        width:208px;
+        border-top:none;
+        margin-left:27px;
+        float:left;
+        border:1px solid #c82324;}
+.fir h4{font-size: 14px;line-height: 34px;height:33px;background:#f9f9f9;padding-left:12px}
+.fir li{font-size: 12px;line-height: 24px;height:32px;margin-left:8px}
+.fir p{height:32px;line-height: 34px;background:#f9f9f9;}
+/*-----------------------------------------轮播图----------------------------------------*/
+.lunb{height: 430px;
+    width: 750px;
+    float:left}
+.sec{
+    height: 288px;
+    width: 783px;
+    float: left;
+    position: relative;
+    margin-left: 15px;
+}
+.sec img{ 
+     position: absolute;
+     top: 0;
+     left: 0;
+}
+.picLink{
+    position: absolute;
+    width: 352px;
+    height: 11px;
+    left: 50%;
+    margin-left: 100px;
+    bottom:50px;
+}
+.picLink li{
+    width: 42px;
+    height: 11px;
+    float: left;
+    background-color: #000;
+    margin-right:2px; 
+    opacity: .8;
+    filter:alpha(opacity=80); 
+}
+
+.picLink li:hover{
+    background-color: #c81623;
+}
+.thr{
+	width:276px;
+	height:430px;
+	float:left;}
+.thr-1{
+	width:260px;
+	height:160px;
+	border:1px solid #000000;
+	margin-top:10px;
+	margin-left:10px;}
+.thr-1 h3{
+	width:260px;
+	height:30px;
+	background:#ededed;
+	border:1px solid #000000;
+	line-height:30px;}
+.thr-2{
+	width:260px;
+	height:56px;
+	border:1px solid #000000;
+	background:#dd3566;
+	margin-top:10px;
+	margin-left:10px;
+	line-height:56px;}
+.thr-3{color:#323232;
+	width:260px;
+	height:158px;
+	border:1px solid #000000;
+	margin-top:10px;
+	margin-left:10px;}
+.blance dt{height:30px;line-height: 30px; padding-left:12px;background:#ededed;}
+.blance dd{line-height: 17px;padding-left:12px;}
+/*----------------------------------------------主产品区------------------------------------------------*/
+.main{
+	width:1263px;
+	height:275px;}
+.main-l{
+	width:950px;
+	height:275px;
+	float:left;
+	margin-left:26px}
+.main li{
+	float:left;
+	width:186px;
+	height:275px;}
+.main li p{
+	width:135px;
+	height:20px;
+	line-height:20px;
+	padding-left:55px;
+	background:#f7f7f7}
+.main-r{
+	width:262px;
+	height:256px;
+	float:left;
+	margin-left:20px;}
+.main-r h4{
+	width:246px;
+	height:30px;
+	line-height: 30px;
+	border:1px solid #000000;
+	padding-left:12px;
+	background:#ededed;}
+/*----------------------------------------机器选区-----------------------------------------*/
+
+.machine{
+	width:1263px;
+	height:557px;}
+.mac-l{
+	width:263px;
+	height:557px;
+
+	float:left;}
+.nice{
+	width:260px;
+	height:232px;
+	border:1px solid #000000}
+.nice h3{
+	font-size:14px;
+	width:250px;
+	height:32px;
+	line-height:32px;
+	background:#fe6565;
+	padding-left:13px;}
+.mac-r{
+	width:1000px;
+	height:557px;
+	float:left;}
+.mac-l img{
+	margin-left:25px;
+	margin-top:6px;}
+
+/*---------------------------------------------右侧悬浮框---------------------------*/
+#div1{width:200px;height:200px;border:3px solid #ccc;background:#fff;position:absolute;top:50%;right:0;}
+
+#div1 h3{height:20px;line-height: 20px;background:#fe6565;padding-left:10px;}
+
+#div1 p{height:20px;line-height:20px;background:#ccc;padding-left:10px;}
+#div1 li{padding-left:10px;line-height: 26px;}
+#div1 li span{color:red;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
